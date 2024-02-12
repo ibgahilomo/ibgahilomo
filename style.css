@@ -7,10 +7,10 @@ body{
 .bodyyady {
     background-color: #1f70db;
 }
-.title {
+#title {
     font-size: 100px;
     font-weight: 700;
-    color: #1f70db;
+    color: #edf5ff;
 }
 .main-body {
     padding: 15px;
